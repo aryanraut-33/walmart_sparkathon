@@ -1,0 +1,245 @@
+
+order_id,customer_id,timestamp,product_id,product_name,category,subcategory,brand,price,quantity,store_location
+1001,C001,2024-12-15 10:30:00,P001,Whole Wheat Bread,Grocery,Bakery,Wonder Bread,2.99,1,New York
+1001,C001,2024-12-15 10:30:00,P002,Organic Butter,Grocery,Dairy,Land O Lakes,4.49,1,New York
+1001,C001,2024-12-15 10:30:00,P003,Strawberry Jam,Grocery,Condiments,Smucker's,3.79,1,New York
+1002,C002,2024-12-16 14:45:00,P004,iPhone 15 Pro,Electronics,Smartphones,Apple,999.99,1,Chicago
+1002,C002,2024-12-16 14:45:00,P005,USB-C Cable,Electronics,Accessories,Apple,29.99,2,Chicago
+1002,C002,2024-12-16 14:45:00,P006,Phone Case,Electronics,Accessories,OtterBox,39.99,1,Chicago
+1003,C003,2024-12-17 09:15:00,P007,Levi's Jeans,Clothing,Pants,Levi's,59.99,1,Dallas
+1003,C003,2024-12-17 09:15:00,P008,Cotton T-Shirt,Clothing,Shirts,Hanes,12.99,3,Dallas
+1003,C003,2024-12-17 09:15:00,P009,Leather Belt,Clothing,Accessories,Fossil,34.99,1,Dallas
+1004,C004,2024-12-18 16:20:00,P010,Shampoo,Personal Care,Hair Care,Pantene,6.99,1,Miami
+1004,C004,2024-12-18 16:20:00,P011,Conditioner,Personal Care,Hair Care,Pantene,7.49,1,Miami
+1004,C004,2024-12-18 16:20:00,P012,Body Wash,Personal Care,Bath,Dove,4.99,2,Miami
+1005,C005,2024-12-19 11:00:00,P013,Coffee Maker,Home & Kitchen,Appliances,Cuisinart,89.99,1,Seattle
+1005,C005,2024-12-19 11:00:00,P014,Coffee Beans,Grocery,Beverages,Starbucks,12.99,2,Seattle
+1005,C005,2024-12-19 11:00:00,P015,Coffee Filters,Home & Kitchen,Appliances,Melitta,5.99,1,Seattle
+1006,C006,2024-12-20 13:30:00,P016,Doritos Nacho Cheese,Grocery,Snacks,Frito-Lay,3.49,2,Los Angeles
+1006,C006,2024-12-20 13:30:00,P017,Coca-Cola 12-Pack,Grocery,Beverages,Coca-Cola,5.99,1,Los Angeles
+1006,C006,2024-12-20 13:30:00,P018,Oreo Cookies,Grocery,Snacks,Nabisco,4.29,1,Los Angeles
+1007,C007,2024-12-21 08:45:00,P019,Samsung Galaxy S24,Electronics,Smartphones,Samsung,799.99,1,Houston
+1007,C007,2024-12-21 08:45:00,P020,Wireless Charger,Electronics,Accessories,Samsung,49.99,1,Houston
+1007,C007,2024-12-21 08:45:00,P021,Screen Protector,Electronics,Accessories,Zagg,24.99,1,Houston
+1008,C008,2024-12-22 15:10:00,P022,Nike Air Max,Clothing,Shoes,Nike,119.99,1,Phoenix
+1008,C008,2024-12-22 15:10:00,P023,Running Shorts,Clothing,Activewear,Nike,29.99,2,Phoenix
+1008,C008,2024-12-22 15:10:00,P024,Sports Socks,Clothing,Accessories,Adidas,14.99,3,Phoenix
+1009,C009,2024-12-23 12:00:00,P025,Toothpaste,Personal Care,Oral Care,Colgate,3.99,2,Denver
+1009,C009,2024-12-23 12:00:00,P026,Toothbrush,Personal Care,Oral Care,Oral-B,4.99,1,Denver
+1009,C009,2024-12-23 12:00:00,P027,Mouthwash,Personal Care,Oral Care,Listerine,5.99,1,Denver
+1010,C010,2024-12-24 17:30:00,P028,Instant Pot,Home & Kitchen,Appliances,Instant Pot,79.99,1,Boston
+1010,C010,2024-12-24 17:30:00,P029,Rice,Grocery,Grains,Uncle Ben's,3.99,2,Boston
+1010,C010,2024-12-24 17:30:00,P030,Chicken Broth,Grocery,Canned Goods,Swanson,2.49,3,Boston
+1011,C011,2024-12-25 10:15:00,P031,MacBook Air,Electronics,Laptops,Apple,1099.99,1,San Francisco
+1011,C011,2024-12-25 10:15:00,P032,Laptop Case,Electronics,Accessories,Targus,39.99,1,San Francisco
+1011,C011,2024-12-25 10:15:00,P033,Wireless Mouse,Electronics,Accessories,Logitech,29.99,1,San Francisco
+1012,C012,2024-12-26 14:20:00,P034,Winter Jacket,Clothing,Outerwear,North Face,149.99,1,Minneapolis
+1012,C012,2024-12-26 14:20:00,P035,Wool Scarf,Clothing,Accessories,Patagonia,34.99,1,Minneapolis
+1012,C012,2024-12-26 14:20:00,P036,Gloves,Clothing,Accessories,Columbia,24.99,1,Minneapolis
+1013,C013,2024-12-27 09:45:00,P037,Face Moisturizer,Personal Care,Skincare,Olay,8.99,1,Atlanta
+1013,C013,2024-12-27 09:45:00,P038,Facial Cleanser,Personal Care,Skincare,Neutrogena,6.99,1,Atlanta
+1013,C013,2024-12-27 09:45:00,P039,Sunscreen,Personal Care,Skincare,Coppertone,9.99,2,Atlanta
+1014,C014,2024-12-28 16:00:00,P040,Blender,Home & Kitchen,Appliances,Vitamix,299.99,1,Las Vegas
+1014,C014,2024-12-28 16:00:00,P041,Frozen Berries,Grocery,Frozen,Dole,4.99,2,Las Vegas
+1014,C014,2024-12-28 16:00:00,P042,Protein Powder,Personal Care,Supplements,Optimum Nutrition,39.99,1,Las Vegas
+1015,C015,2024-12-29 11:30:00,P043,Cheerios,Grocery,Cereal,General Mills,4.99,2,Portland
+1015,C015,2024-12-29 11:30:00,P044,Milk,Grocery,Dairy,Horizon,3.99,1,Portland
+1015,C015,2024-12-29 11:30:00,P045,Bananas,Grocery,Produce,Dole,1.49,3,Portland
+1016,C016,2024-12-30 13:15:00,P046,PlayStation 5,Electronics,Gaming,Sony,499.99,1,San Diego
+1016,C016,2024-12-30 13:15:00,P047,Gaming Headset,Electronics,Gaming,Sony,79.99,1,San Diego
+1016,C016,2024-12-30 13:15:00,P048,Controller,Electronics,Gaming,Sony,69.99,1,San Diego
+1017,C017,2024-12-31 08:00:00,P049,Dress Shirt,Clothing,Shirts,Van Heusen,29.99,2,Detroit
+1017,C017,2024-12-31 08:00:00,P050,Tie,Clothing,Accessories,Calvin Klein,24.99,1,Detroit
+1017,C017,2024-12-31 08:00:00,P051,Dress Pants,Clothing,Pants,Dockers,39.99,1,Detroit
+1018,C018,2025-01-01 15:45:00,P052,Deodorant,Personal Care,Body Care,Old Spice,3.99,2,Tampa
+1018,C018,2025-01-01 15:45:00,P053,Razor,Personal Care,Grooming,Gillette,12.99,1,Tampa
+1018,C018,2025-01-01 15:45:00,P054,Shaving Cream,Personal Care,Grooming,Barbasol,2.99,1,Tampa
+1019,C019,2025-01-02 10:20:00,P055,Vacuum Cleaner,Home & Kitchen,Appliances,Dyson,399.99,1,Baltimore
+1019,C019,2025-01-02 10:20:00,P056,Vacuum Bags,Home & Kitchen,Cleaning,Dyson,19.99,1,Baltimore
+1019,C019,2025-01-02 10:20:00,P057,Carpet Cleaner,Home & Kitchen,Cleaning,Resolve,7.99,1,Baltimore
+1020,C020,2025-01-03 12:10:00,P058,Pasta,Grocery,Pantry,Barilla,1.99,4,Nashville
+1020,C020,2025-01-03 12:10:00,P059,Pasta Sauce,Grocery,Condiments,Prego,2.99,2,Nashville
+1020,C020,2025-01-03 12:10:00,P060,Parmesan Cheese,Grocery,Dairy,Kraft,4.99,1,Nashville
+1021,C021,2025-01-04 14:30:00,P061,Smart TV,Electronics,TVs,Samsung,549.99,1,Columbus
+1021,C021,2025-01-04 14:30:00,P062,HDMI Cable,Electronics,Accessories,AmazonBasics,12.99,2,Columbus
+1021,C021,2025-01-04 14:30:00,P063,TV Stand,Home & Kitchen,Furniture,IKEA,89.99,1,Columbus
+1022,C022,2025-01-05 09:00:00,P064,Yoga Mat,Clothing,Activewear,Gaiam,24.99,1,Charlotte
+1022,C022,2025-01-05 09:00:00,P065,Water Bottle,Home & Kitchen,Drinkware,Hydro Flask,34.99,1,Charlotte
+1022,C022,2025-01-05 09:00:00,P066,Protein Bar,Personal Care,Supplements,Quest,29.99,1,Charlotte
+1023,C023,2025-01-06 16:45:00,P067,Baby Formula,Personal Care,Baby Care,Enfamil,24.99,2,Indianapolis
+1023,C023,2025-01-06 16:45:00,P068,Diapers,Personal Care,Baby Care,Pampers,19.99,1,Indianapolis
+1023,C023,2025-01-06 16:45:00,P069,Baby Wipes,Personal Care,Baby Care,Huggies,4.99,3,Indianapolis
+1024,C024,2025-01-07 11:15:00,P070,Dog Food,Pet Care,Food,Purina,39.99,1,San Antonio
+1024,C024,2025-01-07 11:15:00,P071,Dog Treats,Pet Care,Treats,Milk-Bone,6.99,2,San Antonio
+1024,C024,2025-01-07 11:15:00,P072,Dog Toy,Pet Care,Toys,KONG,12.99,1,San Antonio
+1025,C025,2025-01-08 13:40:00,P073,Cooking Oil,Grocery,Pantry,Wesson,4.99,1,Fort Worth
+1025,C025,2025-01-08 13:40:00,P074,Salt,Grocery,Spices,Morton,1.99,1,Fort Worth
+1025,C025,2025-01-08 13:40:00,P075,Black Pepper,Grocery,Spices,McCormick,2.99,1,Fort Worth
+1026,C026,2025-01-09 08:30:00,P076,Wireless Earbuds,Electronics,Audio,Apple,179.99,1,Milwaukee
+1026,C026,2025-01-09 08:30:00,P077,Charging Case,Electronics,Accessories,Apple,79.99,1,Milwaukee
+1026,C026,2025-01-09 08:30:00,P078,Ear Tips,Electronics,Accessories,Apple,19.99,1,Milwaukee
+1027,C027,2025-01-10 17:00:00,P079,Hoodie,Clothing,Outerwear,Champion,39.99,1,Oklahoma City
+1027,C027,2025-01-10 17:00:00,P080,Sweatpants,Clothing,Activewear,Champion,29.99,1,Oklahoma City
+1027,C027,2025-01-10 17:00:00,P081,Sneakers,Clothing,Shoes,Converse,64.99,1,Oklahoma City
+1028,C028,2025-01-11 10:50:00,P082,Vitamins,Personal Care,Supplements,Centrum,14.99,1,Louisville
+1028,C028,2025-01-11 10:50:00,P083,Calcium,Personal Care,Supplements,Caltrate,12.99,1,Louisville
+1028,C028,2025-01-11 10:50:00,P084,Fish Oil,Personal Care,Supplements,Nature Made,19.99,1,Louisville
+1029,C029,2025-01-12 15:25:00,P085,Microwave,Home & Kitchen,Appliances,Panasonic,149.99,1,Memphis
+1029,C029,2025-01-12 15:25:00,P086,Microwave Plate,Home & Kitchen,Appliances,Panasonic,12.99,1,Memphis
+1029,C029,2025-01-12 15:25:00,P087,Popcorn,Grocery,Snacks,Orville Redenbacher,3.99,2,Memphis
+1030,C030,2025-01-13 09:10:00,P088,Frozen Pizza,Grocery,Frozen,DiGiorno,5.99,3,Las Vegas
+1030,C030,2025-01-13 09:10:00,P089,Ice Cream,Grocery,Frozen,Ben & Jerry's,5.49,2,Las Vegas
+1030,C030,2025-01-13 09:10:00,P090,Frozen Vegetables,Grocery,Frozen,Green Giant,2.99,2,Las Vegas
+1031,C031,2025-01-14 14:15:00,P091,Tablet,Electronics,Tablets,iPad,329.99,1,Albuquerque
+1031,C031,2025-01-14 14:15:00,P092,Tablet Case,Electronics,Accessories,Apple,49.99,1,Albuquerque
+1031,C031,2025-01-14 14:15:00,P093,Stylus,Electronics,Accessories,Apple,99.99,1,Albuquerque
+1032,C001,2025-01-15 12:00:00,P001,Whole Wheat Bread,Grocery,Bakery,Wonder Bread,2.99,2,New York
+1032,C001,2025-01-15 12:00:00,P094,Peanut Butter,Grocery,Condiments,Jif,4.99,1,New York
+1032,C001,2025-01-15 12:00:00,P095,Grape Jelly,Grocery,Condiments,Welch's,3.49,1,New York
+1033,C002,2025-01-16 16:30:00,P096,Laptop Stand,Electronics,Accessories,Rain Design,79.99,1,Chicago
+1033,C002,2025-01-16 16:30:00,P097,Bluetooth Keyboard,Electronics,Accessories,Logitech,69.99,1,Chicago
+1033,C002,2025-01-16 16:30:00,P098,Webcam,Electronics,Accessories,Logitech,89.99,1,Chicago
+1034,C003,2025-01-17 11:45:00,P099,Dress Shoes,Clothing,Shoes,Cole Haan,199.99,1,Dallas
+1034,C003,2025-01-17 11:45:00,P100,Shoe Polish,Clothing,Accessories,Kiwi,4.99,1,Dallas
+1034,C003,2025-01-17 11:45:00,P101,Shoe Horn,Clothing,Accessories,Generic,12.99,1,Dallas
+1035,C004,2025-01-18 08:20:00,P102,Hair Dryer,Personal Care,Hair Care,Conair,39.99,1,Miami
+1035,C004,2025-01-18 08:20:00,P103,Hair Brush,Personal Care,Hair Care,Wet Brush,14.99,1,Miami
+1035,C004,2025-01-18 08:20:00,P104,Hair Serum,Personal Care,Hair Care,Moroccan Oil,29.99,1,Miami
+1036,C005,2025-01-19 13:35:00,P105,Espresso Machine,Home & Kitchen,Appliances,Breville,599.99,1,Seattle
+1036,C005,2025-01-19 13:35:00,P106,Espresso Cups,Home & Kitchen,Drinkware,Nespresso,24.99,1,Seattle
+1036,C005,2025-01-19 13:35:00,P107,Milk Frother,Home & Kitchen,Appliances,Nespresso,49.99,1,Seattle
+1037,C006,2025-01-20 10:05:00,P108,Pretzels,Grocery,Snacks,Rold Gold,2.99,1,Los Angeles
+1037,C006,2025-01-20 10:05:00,P109,Cheese Crackers,Grocery,Snacks,Cheez-Its,3.99,1,Los Angeles
+1037,C006,2025-01-20 10:05:00,P110,Trail Mix,Grocery,Snacks,Planters,5.99,1,Los Angeles
+1038,C007,2025-01-21 15:50:00,P111,Smartwatch,Electronics,Wearables,Apple Watch,399.99,1,Houston
+1038,C007,2025-01-21 15:50:00,P112,Watch Band,Electronics,Accessories,Apple,49.99,1,Houston
+1038,C007,2025-01-21 15:50:00,P113,Screen Protector,Electronics,Accessories,Belkin,19.99,1,Houston
+1039,C008,2025-01-22 09:25:00,P114,Basketball,Clothing,Sports,Spalding,29.99,1,Phoenix
+1039,C008,2025-01-22 09:25:00,P115,Basketball Shorts,Clothing,Activewear,Under Armour,34.99,1,Phoenix
+1039,C008,2025-01-22 09:25:00,P116,Athletic Shirt,Clothing,Activewear,Under Armour,24.99,1,Phoenix
+1040,C009,2025-01-23 14:40:00,P117,Floss,Personal Care,Oral Care,Oral-B,3.99,1,Denver
+1040,C009,2025-01-23 14:40:00,P118,Whitening Toothpaste,Personal Care,Oral Care,Crest,5.99,1,Denver
+1040,C009,2025-01-23 14:40:00,P119,Electric Toothbrush,Personal Care,Oral Care,Oral-B,79.99,1,Denver
+1041,C010,2025-01-24 12:15:00,P120,Air Fryer,Home & Kitchen,Appliances,Ninja,129.99,1,Boston
+1041,C010,2025-01-24 12:15:00,P121,Cooking Spray,Grocery,Pantry,Pam,3.99,1,Boston
+1041,C010,2025-01-24 12:15:00,P122,Frozen Fries,Grocery,Frozen,Ore-Ida,4.99,2,Boston
+1042,C011,2025-01-25 16:05:00,P123,Monitor,Electronics,Computers,Dell,249.99,1,San Francisco
+1042,C011,2025-01-25 16:05:00,P124,USB Hub,Electronics,Accessories,Anker,39.99,1,San Francisco
+1042,C011,2025-01-25 16:05:00,P125,Desk Lamp,Home & Kitchen,Lighting,IKEA,29.99,1,San Francisco
+1043,C012,2025-01-26 11:30:00,P126,Thermal Underwear,Clothing,Underwear,Hanes,19.99,2,Minneapolis
+1043,C012,2025-01-26 11:30:00,P127,Wool Socks,Clothing,Accessories,Smartwool,24.99,3,Minneapolis
+1043,C012,2025-01-26 11:30:00,P128,Winter Boots,Clothing,Shoes,Timberland,149.99,1,Minneapolis
+1044,C013,2025-01-27 08:45:00,P129,Anti-Aging Cream,Personal Care,Skincare,L'Oreal,19.99,1,Atlanta
+1044,C013,2025-01-27 08:45:00,P130,Eye Cream,Personal Care,Skincare,Olay,14.99,1,Atlanta
+1044,C013,2025-01-27 08:45:00,P131,Face Mask,Personal Care,Skincare,Freeman,3.99,2,Atlanta
+1045,C014,2025-01-28 13:20:00,P132,Juicer,Home & Kitchen,Appliances,Breville,199.99,1,Las Vegas
+1045,C014,2025-01-28 13:20:00,P133,Oranges,Grocery,Produce,Sunkist,4.99,2,Las Vegas
+1045,C014,2025-01-28 13:20:00,P134,Apples,Grocery,Produce,Gala,3.99,3,Las Vegas
+1046,C015,2025-01-29 17:10:00,P135,Granola Bars,Grocery,Snacks,Nature Valley,4.99,2,Portland
+1046,C015,2025-01-29 17:10:00,P136,Yogurt,Grocery,Dairy,Chobani,5.99,1,Portland
+1046,C015,2025-01-29 17:10:00,P137,Honey,Grocery,Condiments,Nature's Hollow,6.99,1,Portland
+1047,C016,2025-01-30 10:55:00,P138,Gaming Chair,Home & Kitchen,Furniture,Secretlab,399.99,1,San Diego
+1047,C016,2025-01-30 10:55:00,P139,Gaming Desk,Home & Kitchen,Furniture,IKEA,199.99,1,San Diego
+1047,C016,2025-01-30 10:55:00,P140,LED Strip Lights,Electronics,Lighting,Philips Hue,79.99,1,San Diego
+1048,C017,2025-01-31 15:25:00,P141,Blazer,Clothing,Outerwear,Hugo Boss,199.99,1,Detroit
+1048,C017,2025-01-31 15:25:00,P142,Pocket Square,Clothing,Accessories,Calvin Klein,19.99,1,Detroit
+1048,C017,2025-01-31 15:25:00,P143,Cufflinks,Clothing,Accessories,Tiffany & Co.,149.99,1,Detroit
+1049,C018,2025-02-01 09:15:00,P144,Cologne,Personal Care,Fragrance,Axe,12.99,1,Tampa
+1049,C018,2025-02-01 09:15:00,P145,Aftershave,Personal Care,Grooming,Aqua Velva,5.99,1,Tampa
+1049,C018,2025-02-01 09:15:00,P146,Hair Gel,Personal Care,Hair Care,Axe,4.99,1,Tampa
+1050,C019,2025-02-02 12:40:00,P147,Steam Mop,Home & Kitchen,Appliances,Bissell,99.99,1,Baltimore
+1050,C019,2025-02-02 12:40:00,P148,Floor Cleaner,Home & Kitchen,Cleaning,Pine-Sol,4.99,2,Baltimore
+1050,C019,2025-02-02 12:40:00,P149,Microfiber Cloths,Home & Kitchen,Cleaning,Generic,9.99,1,Baltimore
+1051,C020,2025-02-03 14:00:00,P150,Olive Oil,Grocery,Pantry,Bertolli,7.99,1,Nashville
+1051,C020,2025-02-03 14:00:00,P151,Balsamic Vinegar,Grocery,Condiments,Modena,5.99,1,Nashville
+1051,C020,2025-02-03 14:00:00,P152,Garlic,Grocery,Produce,Fresh,2.99,1,Nashville
+1052,C021,2025-02-04 16:15:00,P153,Soundbar,Electronics,Audio,Bose,299.99,1,Columbus
+1052,C021,2025-02-04 16:15:00,P154,Subwoofer,Electronics,Audio,Bose,199.99,1,Columbus
+1052,C021,2025-02-04 16:15:00,P155,Audio Cable,Electronics,Accessories,Monster,24.99,1,Columbus
+1053,C022,2025-02-05 08:30:00,P156,Resistance Bands,Clothing,Fitness,TRX,29.99,1,Charlotte
+1053,C022,2025-02-05 08:30:00,P157,Workout Towel,Clothing,Fitness,Nike,19.99,1,Charlotte
+1053,C022,2025-02-05 08:30:00,P158,Pre-Workout,Personal Care,Supplements,C4,34.99,1,Charlotte
+1054,C023,2025-02-06 11:45:00,P159,Baby Bottles,Personal Care,Baby Care,Dr. Brown's,19.99,1,Indianapolis
+1054,C023,2025-02-06 11:45:00,P160,Pacifiers,Personal Care,Baby Care,Philips Avent,9.99,2,Indianapolis
+1054,C023,2025-02-06 11:45:00,P161,Baby Blanket,Personal Care,Baby Care,Gerber,24.99,1,Indianapolis
+1055,C024,2025-02-07 13:20:00,P162,Cat Food,Pet Care,Food,Purina,29.99,1,San Antonio
+1055,C024,2025-02-07 13:20:00,P163,Cat Litter,Pet Care,Litter,Arm & Hammer,14.99,1,San Antonio
+1055,C024,2025-02-07 13:20:00,P164,Cat Toy,Pet Care,Toys,Feliway,8.99,2,San Antonio
+1056,C025,2025-02-08 15:35:00,P165,Flour,Grocery,Baking,King Arthur,4.99,1,Fort Worth
+1056,C025,2025-02-08 15:35:00,P166,Sugar,Grocery,Baking,Domino,3.99,1,Fort Worth
+1056,C025,2025-02-08 15:35:00,P167,Vanilla Extract,Grocery,Baking,McCormick,5.99,1,Fort Worth
+1057,C026,2025-02-09 10:10:00,P168,Bluetooth Speaker,Electronics,Audio,JBL,79.99,1,Milwaukee
+1057,C026,2025-02-09 10:10:00,P169,Portable Charger,Electronics,Accessories,Anker,29.99,1,Milwaukee
+1057,C026,2025-02-09 10:10:00,P170,Phone Stand,Electronics,Accessories,Lamicall,15.99,1,Milwaukee
+1058,C027,2025-02-10 12:25:00,P171,Polo Shirt,Clothing,Shirts,Ralph Lauren,69.99,1,Oklahoma City
+1058,C027,2025-02-10 12:25:00,P172,Chinos,Clothing,Pants,Dockers,49.99,1,Oklahoma City
+1058,C027,2025-02-10 12:25:00,P173,Boat Shoes,Clothing,Shoes,Sperry,89.99,1,Oklahoma City
+1059,C028,2025-02-11 14:50:00,P174,Probiotics,Personal Care,Supplements,Align,29.99,1,Louisville
+1059,C028,2025-02-11 14:50:00,P175,Fiber Supplement,Personal Care,Supplements,Metamucil,19.99,1,Louisville
+1059,C028,2025-02-11 14:50:00,P176,Multivitamin,Personal Care,Supplements,One A Day,14.99,1,Louisville
+1060,C029,2025-02-12 09:05:00,P177,Toaster,Home & Kitchen,Appliances,Cuisinart,59.99,1,Memphis
+1060,C029,2025-02-12 09:05:00,P178,Bread,Grocery,Bakery,Pepperidge Farm,3.49,1,Memphis
+1060,C029,2025-02-12 09:05:00,P179,Butter,Grocery,Dairy,Challenge,4.99,1,Memphis
+1061,C030,2025-02-13 16:30:00,P180,Frozen Waffles,Grocery,Frozen,Eggo,4.49,2,Las Vegas
+1061,C030,2025-02-13 16:30:00,P181,Maple Syrup,Grocery,Condiments,Aunt Jemima,6.99,1,Las Vegas
+1061,C030,2025-02-13 16:30:00,P182,Orange Juice,Grocery,Beverages,Tropicana,4.99,1,Las Vegas
+1062,C031,2025-02-14 11:20:00,P183,Kindle,Electronics,E-readers,Amazon,99.99,1,Albuquerque
+1062,C031,2025-02-14 11:20:00,P184,Kindle Case,Electronics,Accessories,Amazon,24.99,1,Albuquerque
+1062,C031,2025-02-14 11:20:00,P185,Reading Light,Electronics,Accessories,LuminoLite,19.99,1,Albuquerque
+1063,C032,2025-02-15 13:45:00,P186,Dress,Clothing,Dresses,Zara,79.99,1,Virginia Beach
+1063,C032,2025-02-15 13:45:00,P187,High Heels,Clothing,Shoes,Nine West,89.99,1,Virginia Beach
+1063,C032,2025-02-15 13:45:00,P188,Clutch Purse,Clothing,Accessories,Michael Kors,149.99,1,Virginia Beach
+1064,C033,2025-02-16 10:15:00,P189,Beard Oil,Personal Care,Grooming,Honest Amish,12.99,1,Tucson
+1064,C033,2025-02-16 10:15:00,P190,Beard Trimmer,Personal Care,Grooming,Philips,49.99,1,Tucson
+1064,C033,2025-02-16 10:15:00,P191,Beard Brush,Personal Care,Grooming,Zeus,19.99,1,Tucson
+1065,C034,2025-02-17 15:00:00,P192,Dishwasher Detergent,Home & Kitchen,Cleaning,Cascade,8.99,1,Fresno
+1065,C034,2025-02-17 15:00:00,P193,Dish Soap,Home & Kitchen,Cleaning,Dawn,3.99,2,Fresno
+1065,C034,2025-02-17 15:00:00,P194,Sponges,Home & Kitchen,Cleaning,Scotch-Brite,5.99,1,Fresno
+1066,C035,2025-02-18 08:40:00,P195,Tuna,Grocery,Canned Goods,Starkist,1.99,4,Sacramento
+1066,C035,2025-02-18 08:40:00,P196,Mayonnaise,Grocery,Condiments,Hellmann's,4.99,1,Sacramento
+1066,C035,2025-02-18 08:40:00,P197,Crackers,Grocery,Snacks,Ritz,3.99,1,Sacramento
+1067,C036,2025-02-19 12:55:00,P198,Drone,Electronics,Gadgets,DJI,599.99,1,Long Beach
+1067,C036,2025-02-19 12:55:00,P199,Drone Battery,Electronics,Accessories,DJI,89.99,1,Long Beach
+1067,C036,2025-02-19 12:55:00,P200,Memory Card,Electronics,Accessories,SanDisk,29.99,1,Long Beach
+1068,C037,2025-02-20 17:20:00,P201,Suit,Clothing,Suits,Men's Wearhouse,299.99,1,Kansas City
+1068,C037,2025-02-20 17:20:00,P202,Dress Socks,Clothing,Accessories,Calvin Klein,19.99,2,Kansas City
+1068,C037,2025-02-20 17:20:00,P203,Leather Shoes,Clothing,Shoes,Johnston & Murphy,199.99,1,Kansas City
+1069,C038,2025-02-21 09:30:00,P204,Makeup Remover,Personal Care,Skincare,Neutrogena,7.99,1,Mesa
+1069,C038,2025-02-21 09:30:00,P205,Foundation,Personal Care,Makeup,Maybelline,12.99,1,Mesa
+1069,C038,2025-02-21 09:30:00,P206,Mascara,Personal Care,Makeup,L'Oreal,9.99,1,Mesa
+1070,C039,2025-02-22 14:10:00,P207,Slow Cooker,Home & Kitchen,Appliances,Crock-Pot,69.99,1,Atlanta
+1070,C039,2025-02-22 14:10:00,P208,Beef Broth,Grocery,Canned Goods,Campbell's,2.99,2,Atlanta
+1070,C039,2025-02-22 14:10:00,P209,Potatoes,Grocery,Produce,Russet,3.99,1,Atlanta
+1071,C040,2025-02-23 11:40:00,P210,Energy Drinks,Grocery,Beverages,Red Bull,12.99,1,Colorado Springs
+1071,C040,2025-02-23 11:40:00,P211,Protein Bars,Personal Care,Supplements,Clif Bar,24.99,1,Colorado Springs
+1071,C040,2025-02-23 11:40:00,P212,Sports Drink,Grocery,Beverages,Gatorade,5.99,2,Colorado Springs
+1072,C041,2025-02-24 16:25:00,P213,Router,Electronics,Networking,Netgear,129.99,1,Omaha
+1072,C041,2025-02-24 16:25:00,P214,Ethernet Cable,Electronics,Accessories,Cat6,19.99,2,Omaha
+1072,C041,2025-02-24 16:25:00,P215,WiFi Extender,Electronics,Networking,Netgear,89.99,1,Omaha
+1073,C042,2025-02-25 08:15:00,P216,Swimsuit,Clothing,Swimwear,Speedo,49.99,1,Raleigh
+1073,C042,2025-02-25 08:15:00,P217,Swim Goggles,Clothing,Accessories,Speedo,24.99,1,Raleigh
+1073,C042,2025-02-25 08:15:00,P218,Swim Cap,Clothing,Accessories,TYR,14.99,1,Raleigh
+1074,C043,2025-02-26 13:50:00,P219,Hair Straightener,Personal Care,Hair Care,GHD,199.99,1,Miami
+1074,C043,2025-02-26 13:50:00,P220,Heat Protectant,Personal Care,Hair Care,TRESemme,8.99,1,Miami
+1074,C043,2025-02-26 13:50:00,P221,Hair Clips,Personal Care,Hair Care,Goody,4.99,1,Miami
+1075,C044,2025-02-27 10:35:00,P222,Pressure Cooker,Home & Kitchen,Appliances,Instant Pot,99.99,1,Virginia Beach
+1075,C044,2025-02-27 10:35:00,P223,Chicken Stock,Grocery,Canned Goods,Kitchen Basics,3.99,2,Virginia Beach
+1075,C044,2025-02-27 10:35:00,P224,Quinoa,Grocery,Grains,Bob's Red Mill,5.99,1,Virginia Beach
+1076,C045,2025-02-28 15:05:00,P225,Cookies,Grocery,Snacks,Chips Ahoy,3.99,2,Oakland
+1076,C045,2025-02-28 15:05:00,P226,Milk,Grocery,Dairy,Organic Valley,4.99,1,Oakland
+1076,C045,2025-02-28 15:05:00,P227,Chocolate Chips,Grocery,Baking,Nestle,4.49,1,Oakland
+1077,C046,2025-03-01 12:20:00,P228,Camera,Electronics,Cameras,Canon,799.99,1,Minneapolis
+1077,C046,2025-03-01 12:20:00,P229,Camera Lens,Electronics,Accessories,Canon,299.99,1,Minneapolis
+1077,C046,2025-03-01 12:20:00,P230,Tripod,Electronics,Accessories,Manfrotto,149.99,1,Minneapolis
+1078,C047,2025-03-02 09:45:00,P231,Cardigan,Clothing,Outerwear,J.Crew,89.99,1,Tulsa
+1078,C047,2025-03-02 09:45:00,P232,Blouse,Clothing,Shirts,Ann Taylor,59.99,1,Tulsa
+1078,C047,2025-03-02 09:45:00,P233,Flats,Clothing,Shoes,Tory Burch,199.99,1,Tulsa
+1079,C048,2025-03-03 14:30:00,P234,Nail Polish,Personal Care,Makeup,OPI,9.99,3,Wichita
+1079,C048,2025-03-03 14:30:00,P235,Nail File,Personal Care,Makeup,Sally Hansen,3.99,1,Wichita
+1079,C048,2025-03-03 14:30:00,P236,Cuticle Oil,Personal Care,Makeup,Essie,7.99,1,Wichita
+1080,C049,2025-03-04 11:15:00,P237,Grill,Home & Kitchen,Appliances,Weber,399.99,1,New Orleans
+1080,C049,2025-03-04 11:15:00,P238,Charcoal,Home & Kitchen,Grilling,Kingsford,12.99,2,New Orleans
+1080,C049,2025-03-04 11:15:00,P239,BBQ Sauce,Grocery,Condiments,Sweet Baby Ray's,3.99,2,New Orleans
+1081,C050,2025-03-05 16:00:00,P240,Cereal,Grocery,Cereal,Frosted Flakes,4.99,1,Tampa
+1081,C050,2025-03-05 16:00:00,P241,Almond Milk,Grocery,Dairy,Silk,3.99,1,Tampa
+1081,C050,2025-03-05 16:00:00,P242,Granola,Grocery,Cereal,Kashi,5.99,1,Tampa
